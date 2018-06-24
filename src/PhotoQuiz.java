@@ -27,7 +27,7 @@ public class PhotoQuiz {
                 Component dy ;
 		// 3. use the "createImage()" method below to initialize your Component
                  	dy = createImage(jeffy);
-		// 4. add the image to the quiz window
+		// 4. add the image to the quiz windoww
 
 		// 5. call the pack() method on the quiz window
 
